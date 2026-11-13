@@ -1,0 +1,29 @@
+[
+  {
+    "id": "our-story", "name": "Our Story", "description": "The little things. The big feelings. A scrapbook of everything that makes you, you.", "occasion": "Connection", "style": "scrapbook", "accent": "#F3AD98",
+    "scenes": [
+      { "id": "beginning", "layout": "cover", "eyebrow": "A collection of us", "title": "Some things just feel like home.", "body": "For the people who turn ordinary days into our favourite memories.", "background": "#342642", "media": { "id": "friends", "kind": "image", "src": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&w=1400&q=85", "alt": "Friends sharing a carefree afternoon outdoors", "source": "sample" } },
+      { "id": "ordinary", "layout": "split", "eyebrow": "The in-between moments", "title": "Nothing planned. Everything remembered.", "body": "The long walks. The terrible jokes. The coffee that went cold because we had too much to say.", "background": "#FBF8F2", "media": { "id": "walk", "kind": "image", "src": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=1200&q=85", "alt": "Sunlight reaching through a peaceful woodland", "source": "sample" } },
+      { "id": "quote", "layout": "quote", "eyebrow": "A little truth", "title": "My favourite place is wherever we are.", "body": "Here’s to a thousand more ordinary days together.", "background": "#DDD2EF" },
+      { "id": "next", "layout": "closing", "eyebrow": "To be continued", "title": "Our next chapter starts here.", "body": "Same people. New adventures. All the love.", "background": "#342642" }
+    ]
+  },
+  {
+    "id": "your-special-day", "name": "Your Special Day", "description": "A bright, joy-filled celebration of someone worth making a little fuss over.", "occasion": "Celebration", "style": "celebration", "accent": "#DFF29F",
+    "scenes": [
+      { "id": "beginning", "layout": "cover", "eyebrow": "Today belongs to you", "title": "The world is brighter with you in it.", "body": "A little celebration of your very wonderful existence.", "background": "#F3AD98", "media": { "id": "party", "kind": "image", "src": "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?auto=format&fit=crop&w=1400&q=85", "alt": "Colourful balloons ready for a celebration", "source": "sample" } },
+      { "id": "magic", "layout": "quote", "eyebrow": "Your kind of magic", "title": "You make the everyday feel like an occasion.", "body": "Your big heart. Your fearless laugh. That way you always show up.", "background": "#DFF29F" },
+      { "id": "wish", "layout": "split", "eyebrow": "Make a wish", "title": "More joy. More wonder. More you.", "body": "May this next chapter be filled with the things that make your eyes light up.", "background": "#FBF8F2", "media": { "id": "cake", "kind": "image", "src": "https://images.unsplash.com/photo-1464349095431-e9a21285b5f3?auto=format&fit=crop&w=1200&q=85", "alt": "A cake decorated for a special day", "source": "sample" } },
+      { "id": "next", "layout": "closing", "eyebrow": "With all our love", "title": "Here’s to your next beautiful year.", "body": "Go on. Take up space. Make a little magic.", "background": "#342642" }
+    ]
+  },
+  {
+    "id": "look-how-far", "name": "Look How Far", "description": "An unfolding tribute to the steps, the courage, and the person you’re becoming.", "occasion": "Milestones", "style": "journey", "accent": "#DDD2EF",
+    "scenes": [
+      { "id": "beginning", "layout": "cover", "eyebrow": "Every step counts", "title": "Look at you. Look how far.", "body": "A story about showing up, starting again, and finding your own way.", "background": "#342642", "media": { "id": "mountain", "kind": "image", "src": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1600&q=85", "alt": "A mountain peak rising into the clouds", "source": "sample" } },
+      { "id": "first", "layout": "split", "eyebrow": "It started with a small yes", "title": "You didn’t have it all figured out.", "body": "You just took the next step. Then another. Somewhere along the way, the impossible became your everyday.", "background": "#FBF8F2", "media": { "id": "road", "kind": "image", "src": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?auto=format&fit=crop&w=1200&q=85", "alt": "A quiet mountain lake reflecting the landscape", "source": "sample" } },
+      { "id": "proud", "layout": "quote", "eyebrow": "Take this in", "title": "The person you were would be so proud.", "body": "Not just of what you did. Of who you became while doing it.", "background": "#DDD2EF" },
+      { "id": "next", "layout": "closing", "eyebrow": "And this is only the beginning", "title": "There’s a whole world ahead.", "body": "Take a breath. Enjoy this moment. The next chapter can wait.", "background": "#342642" }
+    ]
+  }
+]
